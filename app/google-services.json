@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "918676896113",
+    "firebase_url": "https://telemartonlinelogin.firebaseio.com",
+    "project_id": "telemartonlinelogin",
+    "storage_bucket": "telemartonlinelogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918676896113:android:025a63e69eb294e8",
+        "android_client_info": {
+          "package_name": "pratikthapa.example.com.telemartonlinelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918676896113-b2mm2hvlci1gvp0iptc7p1q1an658sj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrnJaDlHQK6BcVwJ6bZ9c64XUnYiLLVss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
